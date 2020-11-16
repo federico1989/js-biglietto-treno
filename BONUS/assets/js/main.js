@@ -23,3 +23,5 @@ if (età < 18) {
 }
 // Risultato a schermo
 alert("Il prezzo del tuo biglietto è " + prezzoTotale.toFixed(2) + " €");
+//Prova con immagine e scritte
+document.getElementById('ticket').innerHTML = prezzoTotale.toFixed(2) + " €";

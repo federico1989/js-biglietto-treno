@@ -1,0 +1,17 @@
+.container {
+  width: 50%;
+  margin: auto;
+  background-color: lightgreen;
+  margin-top: 20px;
+}
+.box_train {
+  height: 500px;
+  width: 500px;
+  background-color: white;
+}
+.box_logo, h1, p {
+  text-align: center;
+}
+p {
+  font-size: 40px;
+}
